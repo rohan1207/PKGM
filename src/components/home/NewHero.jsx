@@ -149,7 +149,7 @@ export default function NewHero() {
                 >
                   <span style={{ color: "white" }}>Gurukul </span>
                   <span style={{ color: HEADLINE_ACCENT, textShadow: HEADLINE_ACCENT_SHADOW }}>
-                    for Alpha Generation
+                    for PGKM Generation
                   </span>
                 </h1>
               </div>

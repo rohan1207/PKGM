@@ -20,7 +20,7 @@ export default function HeroSection() {
       <div className="relative mx-auto grid max-w-6xl gap-12 px-4 sm:px-6 lg:grid-cols-12 lg:items-center lg:gap-8 lg:px-10">
         <motion.div {...fade} className="relative space-y-6 lg:col-span-5">
           <p className="inline-flex rounded-full bg-white px-4 py-1.5 text-xs font-medium uppercase tracking-wide text-ink/50 shadow-[0_1px_0_rgba(45,30,23,0.06)] ring-1 ring-ink/[0.06]">
-            Gen Alpha Learning · Pre-K to Grade 12
+            Gen PGKM Learning · Pre-K to Grade 12
           </p>
           <h1 className="text-4xl font-semibold leading-[1.12] tracking-[-0.02em] text-ink sm:text-[2.75rem] sm:leading-[1.06] lg:text-[2.85rem] xl:text-[3.05rem]">
             Putting your child&apos;s{" "}
